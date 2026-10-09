@@ -1,0 +1,14 @@
+patients: 300
+readings: 3600
+mean_sbp: 130.61
+sd_sbp: 14.85
+min_sbp: 88
+max_sbp: 180
+stage2_patients: 79
+highest_patient: P0131
+highest_patient_mean: 168.33
+peak_hour_column: sbp_h04
+peak_hour_mean: 137.96
+high_monitor: M04
+monitor_offset: 7.65
+stage2_other_monitors: 60

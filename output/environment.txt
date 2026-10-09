@@ -1,0 +1,3 @@
+python: Python 3.13.7
+numpy: 2.3.3
+interpreter: /Users/claraliu/Desktop/datasci217/ds217-26f-03/.venv/bin/python3
